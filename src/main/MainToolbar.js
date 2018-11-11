@@ -29,7 +29,7 @@ class MainToolbar extends Component {
             <div className={classNames(classes.root, "flex flex-row")}>
 
                 <div className="flex flex-1 px-24">
-                    <Typography>Toolbar</Typography>
+                    <Typography>This is the Toolbar \(-.-)/ </Typography>
                 </div>
 
                 <div className="flex">
